@@ -20,9 +20,9 @@ Développez un tableau de bord d'analytics avec React
 
 ## Setup
 
-This project was built with Node v17.3.0 and IntelliJ Idea as code editor.
+This project was built with Node v16.0.0 and IntelliJ Idea as code editor.
 
-It requires the use of a NodeJS backend : [SportSee backend](https://github.com/Noucho/AntoninBouzy_12_03-06-22_backend).
+It requires the use of a NodeJS backend : [SportSee backend](https://github.com/Noucho/AntoninBouzy_12_03-06-2022_backend).
 Follow the backend readme for its installation.
 
 To launch the project :
